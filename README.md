@@ -1,87 +1,54 @@
-# Project Title
+# Provisioning Payload
 
-One Paragraph of project description goes here
+Vault Cipher's Provisioning Payload is an automated program that creates, configures, and provisions reverse proxies, web-servers, clouds, SQL databases, SSH gateways, and other types of production servers. Sub-configurations include setting up SSH keys, VPS users, Wordpress sites, Nginx & Apache backends, remote repositories, server preseeds, etc. The Vault Cipher Provisioning Payload project utilizes Python, Bash, and PHP as the primary programming languages, and various networking and front-end development concepts and packages.
 
-## Getting Started
+Please visit https://vaultcipher.com, and read Provisioning Payload's documentation for additional details and information.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Installation & Setup
 
-### Prerequisites
+### Requirements
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+[Insert Requirements Here]
 
 ```
-Give the example
+[Code]
 ```
 
-And repeat
+### Installation
 
+1. [Step with Description]
 ```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
+[Command]
 ```
 
-### And coding style tests
+## Production
 
-Explain what these tests test and why
+[Insert Description & Disclaimer about Production Deployment(s)]
 
-```
-Give an example
-```
+## Support & Documentation
 
-## Deployment
+### Languages
+[Python3.6+](https://docs.python.org/3/) - Programming Language
+[Bash](https://www.tldp.org/LDP/abs/abs-guide.pdf) - Scripting Language
+[PHP 7.2+](http://php.net/manual/en/install.php) - Front/Backend Development Language
 
-Add additional notes about how to deploy this on a live system
+### Infrastructure
+* [Nginx](https://docs.python.org/3/) - Reverse Proxy, SSL Encryption, SSH Jump-Server
+* [Apache 2.4+](https://httpd.apache.org/docs/2.4/) - Backend Webserver, PHP 7.2 FPM Proxy
+** [CGI](https://httpd.apache.org/docs/2.4/mod/mod_cgi.html) - Apache2 Scripting Module
 
-## Built With
+## Author(s) & Acknowledgments
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* **Jacob B. Sanders** - *Project Creator, Owner of Vault Cipher LLC.* - [Vault Cipher LLC.](https://vaultcipher.com/team/jacob-sanders)
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* [Contributors & Contributions](https://github.com/vaultcipher/Payload/Contributors)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
+## Community
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* [Inspiration]
+* [Open Source Acknowledgment]
+* [Reference 1]

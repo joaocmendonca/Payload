@@ -6,4 +6,4 @@ git add .
 git add *
 git commit -m "${MESSAGE}"
 
-git push
+git push -u origin master

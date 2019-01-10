@@ -6,6 +6,21 @@ Payload is an automated infrastructure that creates, configures, and provisions 
 
 Please visit [Vault Cipher LLC.](https://vaultcipher.com) and read the package's documentation for additional details and information.
 
+## Development
+
+### Critical
+- [x] Correct Reverse Proxy SSL Redirections
+
+### Important
+- [x] Create gitHub Repository
+
+### Minor
+- [ ] Remove gitLab from Infrastructure
+
+### Indeterminate
+- [ ] Create aforementioned Website Directories
+- [ ] Create Network Map using Google Cloud Icons (Open Source)
+
 ## Installation & Setup
 
 ### Requirements
@@ -37,7 +52,7 @@ Please visit [Vault Cipher LLC.](https://vaultcipher.com) and read the package's
 ### Infrastructure
 * [Nginx](https://docs.python.org/3/) - Reverse Proxy, SSL Encryption, SSH Jump-Server
 * [Apache 2.4+](https://httpd.apache.org/docs/2.4/) - Backend Webserver, PHP 7.2 FPM Proxy
-** [CGI](https://httpd.apache.org/docs/2.4/mod/mod_cgi.html) - Apache2 Scripting Module
+  * [CGI](https://httpd.apache.org/docs/2.4/mod/mod_cgi.html) - Apache2 Scripting Module
 
 ## Author(s) & Acknowledgments
 

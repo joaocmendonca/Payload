@@ -1,8 +1,10 @@
 # Provisioning Payload
 
-Vault Cipher's Provisioning Payload is an automated program that creates, configures, and provisions reverse proxies, web-servers, clouds, SQL databases, SSH gateways, and other types of production servers. Sub-configurations include setting up SSH keys, VPS users, Wordpress sites, Nginx & Apache backends, remote repositories, server preseeds, etc. The Vault Cipher Provisioning Payload project utilizes Python, Bash, and PHP as the primary programming languages, and various networking and front-end development concepts and packages.
+Welcome to the Vault Cipher Provisioning Payload repository.
 
-Please visit https://vaultcipher.com, and read Provisioning Payload's documentation for additional details and information.
+Payload is an automated infrastructure that creates, configures, and provisions reverse proxies, web-servers, clouds, SQL databases, SSH gateways, and other types of production servers. Sub-configurations include SSH keys, VPS users, Wordpress sites, Nginx & Apache backends, remote repositories, server preseeds, etc. Payload utilizes Python, Bash, and PHP as the primary programming languages, and various networking and front-end development concepts and packages.
+
+Please visit [Vault Cipher LLC.](https://vaultcipher.com) and read the package's documentation for additional details and information.
 
 ## Installation & Setup
 
@@ -50,5 +52,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Community
 
 * [Inspiration]
+* [Background]
 * [Open Source Acknowledgment]
 * [Reference 1]

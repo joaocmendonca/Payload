@@ -9,7 +9,7 @@ Please visit [Vault Cipher LLC.](https://vaultcipher.com) and read the package's
 ## Development
 
 ### Critical
-- [x] Correct Reverse Proxy SSL Redirections
+[x] Correct Reverse Proxy SSL Redirections
 
 ### Important
 - [x] Create gitHub Repository
